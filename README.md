@@ -25,7 +25,10 @@ Based in Chile 🇨🇱 · Working across LatAm
 
 ### 🧠 [Pensó.app](https://penso.app)
 
-*[One-line description of what Pensó.app does and who it’s for.]* Currently building.
+*ES:* Penso es una app de finanzas personales para el mercado chileno que automatiza la importación de cartolas y movimientos bancarios (PDF + scraping web/mobile) para que personas y familias controlen gastos, deudas y presupuestos en un solo espacio compartido.
+*EN:* Penso is a personal finance app for the Chilean market that automatically imports bank statements and transactions (PDF parsing + web/mobile scraping) so individuals and families can track expenses, debts, and budgets in one shared space.
+
+Currently building.
 
 ### 🤖 Heysteff
 
