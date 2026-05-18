@@ -26,13 +26,14 @@ Based in Chile 🇨🇱 · Working across LatAm
 ### 🧠 [Pensó.app](https://penso.app)
 
 *ES:* Penso es una app de finanzas personales para el mercado chileno que automatiza la importación de cartolas y movimientos bancarios (PDF + scraping web/mobile) para que personas y familias controlen gastos, deudas y presupuestos en un solo espacio compartido.
+
 *EN:* Penso is a personal finance app for the Chilean market that automatically imports bank statements and transactions (PDF parsing + web/mobile scraping) so individuals and families can track expenses, debts, and budgets in one shared space.
 
 Currently building.
 
 ### 🤖 Heysteff
 
-An AI agent we’re building. *[One-line description of what Steff does and who it serves.]* Early stage, moving fast.
+Steff unifies WhatsApp, Instagram, Messenger, Gmail, Shopify and Customs solutions into one inbox and answers customers automatically (or hands the reply to a human in copilot mode) for an e-commerce and service brands that can’t staff support around the clock.
 
 ### 📣 100 Aventuras
 
