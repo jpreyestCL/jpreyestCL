@@ -31,7 +31,7 @@ Based in Chile 🇨🇱 · Working across LatAm
 
 Currently building.
 
-### 🤖 Heysteff
+### 🤖 Heysteff.com
 
 Steff unifies WhatsApp, Instagram, Messenger, Gmail, Shopify and Customs solutions into one inbox and answers customers automatically (or hands the reply to a human in copilot mode) for an e-commerce and service brands that can’t staff support around the clock.
 
